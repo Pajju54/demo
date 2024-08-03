@@ -1,2 +1,3 @@
 # demo
-my first git repo
+my first Git Repository
+Author - Prajwal Joshi
