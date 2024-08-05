@@ -1,4 +1,4 @@
 # demo
 my first Git Repository
 <br>
-Author - Prajwal Joshi
+Author - Prajwal Joshi (PESU)
